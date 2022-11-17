@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'simplilearnwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B0C8D418EF64C1AAC35C2BDD3C0849A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B926596FCF074C209299B3870DC7E742 }}
           package: .
